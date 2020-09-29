@@ -48,6 +48,7 @@ public class VotingBox extends SuperKarel {
 	}
 	
 	
+	
 // pick up anything is at the box
 	private void moveCleanBox(){
 		while(beepersPresent()) {
